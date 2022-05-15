@@ -15,3 +15,9 @@ This project depends on (optional) [Zlib](http://zlib.net/) and (compulsory) [Li
 ## Usage
 
 **Please read the [Documentation](http://libtmx.rtfd.io/).**
+
+需要修改CMakeLists.txt文件中的include_directories目录。
+
+
+
+

@@ -1,0 +1,6 @@
+C:/Program Files (x86)/tmx/lib/libtmx.a
+C:/Program Files (x86)/tmx/include/tmx.h
+C:/Program Files (x86)/tmx/lib/cmake/tmx/tmxExports.cmake
+C:/Program Files (x86)/tmx/lib/cmake/tmx/tmxExports-noconfig.cmake
+C:/Program Files (x86)/tmx/lib/cmake/tmx/tmxConfig.cmake
+C:/Program Files (x86)/tmx/lib/cmake/tmx/tmxConfigVersion.cmake

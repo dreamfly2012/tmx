@@ -1,5 +1,12 @@
 cmake_minimum_required(VERSION 3.5)
 
+set( CMAKE_C_COMPILER "C:/MinGW/bin/gcc.exe" )
+
+include_directories(
+    "C:/MinGW/include/"
+    "C:/MinGW/mingw32/include/"
+)
+
 project(tmx VERSION 1.4.0 LANGUAGES C)
 
 add_subdirectory(doc) # Sphinx documentation
